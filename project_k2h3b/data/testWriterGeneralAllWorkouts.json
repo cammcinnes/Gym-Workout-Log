@@ -1,0 +1,23 @@
+{
+    "workouts": [
+        {
+            "date": "Sept 21, 2010",
+            "minutes": 60,
+            "description": [{
+                "reps": 15,
+                "sets": 3,
+                "name": "Push ups"
+            }]
+        },
+        {
+            "date": "November 17 2010",
+            "minutes": 70,
+            "description": [{
+                "reps": 15,
+                "sets": 3,
+                "name": "Pull ups"
+            }]
+        }
+    ],
+    "name": "Cam's workouts"
+}

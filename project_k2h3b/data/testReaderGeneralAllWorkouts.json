@@ -1,0 +1,29 @@
+{
+  "name": "My workouts",
+  "workouts": [
+    {
+      "order": 1,
+      "date": "Sept 21 2001",
+      "minutes": 60,
+      "description": [
+        {
+          "name": "Push ups",
+          "sets": 3,
+          "reps": 12
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "date": "November 17 2001",
+      "minutes": 70,
+      "description": [
+        {
+          "name": "Pull ups",
+          "sets": 3,
+          "reps": 12
+        }
+      ]
+    }
+  ]
+}
