@@ -25,13 +25,3 @@ without the added bells and whistles that begin to complicate things.
 added to description.
 - As a user, I want to be able to save my list of all the workouts
 - As a user, I want to be able to reload my list of workouts from file.
-
-# Phase 4: Task 2
-
-I have chosen to include the use of a Map interface in my code. I used a Map in the class AllWorkouts.
-
-# Phase 4: Task 3
-
-- I would refactor StrengthWorkoutsApp to adhere to the SRP by creating a class responsible for the GUI and leave 
- StrengthWorkoutsApp responsible for the code within the java interface and methods. I would also 
- establish a bidirectional association between the two classes in order to maintain functionality.
